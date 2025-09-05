@@ -268,8 +268,9 @@
         "image_slide_kgTmJ9": {
           "type": "image_slide",
           "settings": {
+            "image": "shopify://shop_images/67d8ebaf-088a-443b-a89d-90942b491ce6.png",
             "link": "",
-            "description": "<p>l,vdslvkf</p>",
+            "description": "<h4><strong>Marc</strong></h4><p><em>Je fais souvent des journées de 10 à 12 heures sur les chantiers. Avec ces chaussures, je rentre enfin chez moi sans avoir les pieds en feu. </em></p><p><em>Franchement, je revis, merci.</em><br/></p>",
             "desc_alignment": "center",
             "desc_color_scheme": "background-2"
           }
@@ -277,8 +278,9 @@
         "image_slide_9MdN6F": {
           "type": "image_slide",
           "settings": {
+            "image": "shopify://shop_images/1750679904__0__mW28lNTd__IMG-20250623-WA0028__original.avif",
             "link": "",
-            "description": "",
+            "description": "<h4><strong>Thomas</strong></h4><p></p><p><em>Elles sont incroyablement légères. Je sens vraiment la différence par rapport à mes anciennes chaussures de sécurité qui pesaient une tonne. C'est top, on a l’impression de porter des baskets.</em><br/><br/></p>",
             "desc_alignment": "center",
             "desc_color_scheme": "background-2"
           }
@@ -286,8 +288,9 @@
         "image_slide_HemQpn": {
           "type": "image_slide",
           "settings": {
+            "image": "shopify://shop_images/1750679905__0__SoNvlw5Z__IMG-20250623-WA0026__original.avif",
             "link": "",
-            "description": "",
+            "description": "<h4><strong>Giovanni</strong></h4><p><em>Un collègue a laissé tomber une planche en métal sur mon pied. Résultat : rien du tout. La coque acier et la semelle Kevlar font vraiment leur boulot, c’est rassurant, foncez</em>.</p>",
             "desc_alignment": "center",
             "desc_color_scheme": "background-2"
           }
@@ -295,8 +298,29 @@
         "image_slide_rJ9YA3": {
           "type": "image_slide",
           "settings": {
+            "image": "shopify://shop_images/1756744314__1756744308243-image__original.avif",
             "link": "",
-            "description": "",
+            "description": "<h4>Alexandre</h4><p><em>Je gagne du temps tous les matins comme il n'y a pas de lacet et honnêtement ça fait plaisir de mettre une En 3 secondes elles sont enfilées et bien serrées, super pratique.</em></p>",
+            "desc_alignment": "center",
+            "desc_color_scheme": "background-2"
+          }
+        },
+        "image_slide_VCtMWf": {
+          "type": "image_slide",
+          "settings": {
+            "image": "shopify://shop_images/1752873146__0__3VoDaZl2__ages_568599369155085333-8ffed309-3e35-40d1-a0af-ba9cffbcfc79__original.avif",
+            "link": "",
+            "description": "<h4>Sophie</h4><p><em>Je travaille en logistique et j’ai enfin trouvé des chaussures de sécurité qui ne ressemblent pas à des blocs. Elles ont un look moderne, je peux même aller en ville avec sans complexe.</em></p>",
+            "desc_alignment": "center",
+            "desc_color_scheme": "background-2"
+          }
+        },
+        "image_slide_GLwNbA": {
+          "type": "image_slide",
+          "settings": {
+            "image": "shopify://shop_images/ePZUkJ0Q5_mid.jpg",
+            "link": "",
+            "description": "<h4>Claire<br/></h4><p><br/>Dans mon agence d’intérim on nous demande toujours des chaussures S3. Avec celles-ci je suis tranquille, elles sont conformes aux normes et en plus très confortables.</p>",
             "desc_alignment": "center",
             "desc_color_scheme": "background-2"
           }
@@ -306,7 +330,9 @@
         "image_slide_kgTmJ9",
         "image_slide_9MdN6F",
         "image_slide_HemQpn",
-        "image_slide_rJ9YA3"
+        "image_slide_rJ9YA3",
+        "image_slide_VCtMWf",
+        "image_slide_GLwNbA"
       ],
       "name": "Image/Video Slider",
       "settings": {
