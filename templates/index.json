@@ -119,9 +119,9 @@
         "mobile_padding_bottom": 0,
         "desktop_padding_top": 0,
         "desktop_padding_bottom": 0,
-        "custom_colors_background": "#FFFFFF",
+        "custom_colors_background": "#ffffff",
         "custom_gradient_background": "",
-        "custom_colors_text": "#2E2A39"
+        "custom_colors_text": "#2e2a39"
       }
     },
     "rich_text_GXjxCQ": {
@@ -205,7 +205,7 @@
         "rating_text_size": 24,
         "rating_text_size_mobile": 20,
         "rating_text_height": 130,
-        "rating_text_mt": 16,
+        "rating_text_mt": 24,
         "rating": 4.9,
         "rating_hide": false,
         "rating_text_hide": false,
@@ -221,13 +221,13 @@
         "text_size_mobile": 16,
         "text_height": 130,
         "text_align": "center",
-        "text_mt": 16,
+        "text_mt": 24,
         "slider_width": 80,
         "slider_view": 3,
         "slider_view_mobile": 1.2,
         "slider_gap": 20,
         "slider_gap_mobile": 20,
-        "slider_mt": 36,
+        "slider_mt": 24,
         "card_padding_vertical": 32,
         "card_padding_vertical_mobile": 24,
         "card_padding_horizontal": 40,
