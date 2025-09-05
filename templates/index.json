@@ -56,9 +56,9 @@
         "color_scheme": "background-1",
         "padding_top": 40,
         "padding_bottom": 52,
-        "custom_colors_background": "#FFFFFF",
+        "custom_colors_background": "#ffffff",
         "custom_gradient_background": "",
-        "custom_colors_text": "#2E2A39",
+        "custom_colors_text": "#2e2a39",
         "custom_colors_solid_button_background": "#dd1d1d",
         "custom_colors_solid_button_text": "#ffffff",
         "custom_colors_outline_button": "#dd1d1d"
@@ -71,7 +71,7 @@
           "type": "heading",
           "settings": {
             "title": "Pourquoi choisir Securistep ?",
-            "title_highlight_color": "#6D388B",
+            "title_highlight_color": "#6d388b",
             "heading_size": "h2"
           }
         }
@@ -89,9 +89,9 @@
         "color_scheme": "background-1",
         "padding_top": 40,
         "padding_bottom": 52,
-        "custom_colors_background": "#FFFFFF",
+        "custom_colors_background": "#ffffff",
         "custom_gradient_background": "",
-        "custom_colors_text": "#2E2A39",
+        "custom_colors_text": "#2e2a39",
         "custom_colors_solid_button_background": "#dd1d1d",
         "custom_colors_solid_button_text": "#ffffff",
         "custom_colors_outline_button": "#dd1d1d"
@@ -118,13 +118,13 @@
         "mobile_content_alignment": "center",
         "padding_top": 0,
         "padding_bottom": 0,
-        "custom_colors_background": "#2E2A39",
+        "custom_colors_background": "#2e2a39",
         "custom_gradient_background": "",
-        "custom_colors_text": "#FFFFFF",
+        "custom_colors_text": "#ffffff",
         "custom_colors_solid_button_background": "#dd1d1d",
         "custom_colors_solid_button_text": "#ffffff",
         "custom_colors_outline_button": "#dd1d1d",
-        "custom_section_colors_background": "#FFFFFF",
+        "custom_section_colors_background": "#ffffff",
         "custom_section_gradient_background": ""
       }
     },
@@ -223,13 +223,13 @@
         "button_padding_horizontal": 16,
         "button_radius": 8,
         "button_border_thickness": 0,
-        "button_color": "#FFFFFF",
-        "button_hover_color": "#FFFFFF",
+        "button_color": "#ffffff",
+        "button_hover_color": "#ffffff",
         "button_bg_color": "#000000",
         "button_bg_hover_color": "#000000",
         "button_border_color": "#000000",
         "button_border_hover_color": "#000000",
-        "card_bg_color": "#FFFFFF",
+        "card_bg_color": "#ffffff",
         "card_border_color": "#000000",
         "card_shadow_color": "#ffffff",
         "card_heading_color": "#000000",
@@ -237,17 +237,17 @@
         "card_author_date_text_color": "#000000",
         "arrow_color": "#000000",
         "arrow_hover_color": "#000000",
-        "arrow_bg_color": "#FFFFFF",
-        "arrow_bg_hover_color": "#FFFFFF",
-        "arrow_border_color": "#FFFFFF",
-        "arrow_border_hover_color": "#FFFFFF",
+        "arrow_bg_color": "#ffffff",
+        "arrow_bg_hover_color": "#ffffff",
+        "arrow_border_color": "#ffffff",
+        "arrow_border_hover_color": "#ffffff",
         "dots_color": "#000000",
         "heading_color": "#000000",
         "rating_text_color": "#000000",
-        "stars_bg_color": "#00B67A",
-        "stars_color": "#FFFFFF",
+        "stars_bg_color": "#00b67a",
+        "stars_color": "#ffffff",
         "text_color": "#000000",
-        "background_color": "#FFFFFF",
+        "background_color": "#ffffff",
         "background_gradient": "linear-gradient(180deg, rgba(255, 255, 255, 1), rgba(255, 255, 255, 1) 100%)",
         "border_color": "#000000",
         "margin_top": 0,
@@ -339,7 +339,7 @@
         "display_id": false,
         "visibility": "always-display",
         "title": "",
-        "title_highlight_color": "#6D388B",
+        "title_highlight_color": "#6d388b",
         "heading_size": "h1",
         "color_scheme": "background-1",
         "type": "slide",
@@ -372,7 +372,7 @@
         "mobile_arrows_position": "sides",
         "padding_top": 0,
         "padding_bottom": 0,
-        "custom_colors_background": "#FFFFFF",
+        "custom_colors_background": "#ffffff",
         "custom_gradient_background": "",
         "custom_colors_text": "#121212"
       }
@@ -388,6 +388,12 @@
             "uppercase_title": false,
             "margin_top": 0,
             "margin_bottom": 15
+          }
+        },
+        "kaching_bundles_app_block_wLqyp6": {
+          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
+          "settings": {
+            "product": "{{section.settings.product}}"
           }
         },
         "buy_buttons_mmfJXb": {
@@ -412,6 +418,7 @@
       },
       "block_order": [
         "title_fg8Tii",
+        "kaching_bundles_app_block_wLqyp6",
         "buy_buttons_mmfJXb"
       ],
       "name": "t:sections.featured-product.presets.name",
