@@ -37,7 +37,7 @@
         "heading_DieDQR": {
           "type": "heading",
           "settings": {
-            "title": "TESTÉE ET APPROUVÉE",
+            "title": "Recommandé par:",
             "title_highlight_color": "#1c1c1c",
             "heading_size": "h2"
           }
@@ -62,6 +62,66 @@
         "custom_colors_solid_button_background": "#dd1d1d",
         "custom_colors_solid_button_text": "#ffffff",
         "custom_colors_outline_button": "#dd1d1d"
+      }
+    },
+    "horizontal_ticker_4wPUNQ": {
+      "type": "horizontal-ticker",
+      "blocks": {
+        "image_VQjMUp": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Design_sans_titre_6.png"
+          }
+        },
+        "image_gHD37H": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Design_sans_titre_7.png"
+          }
+        },
+        "image_9AyqEF": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Design_sans_titre_8.png"
+          }
+        },
+        "image_6y3Kbt": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Design_sans_titre_10.png"
+          }
+        }
+      },
+      "block_order": [
+        "image_VQjMUp",
+        "image_gHD37H",
+        "image_9AyqEF",
+        "image_6y3Kbt"
+      ],
+      "name": "Horizontal Ticker",
+      "settings": {
+        "visibility": "always-display",
+        "speed": 3,
+        "mobile_spacing": 60,
+        "desktop_spacing": 100,
+        "color_scheme": "background-1",
+        "mobile_text_size": 16,
+        "desktop_text_size": 18,
+        "italic_text": false,
+        "uppercase_text": false,
+        "bold_text": false,
+        "mobile_image_height": 70,
+        "desktop_image_height": 40,
+        "hidden_products": "",
+        "enable_specific_display": false,
+        "displayed_products": "",
+        "mobile_padding_top": 0,
+        "mobile_padding_bottom": 0,
+        "desktop_padding_top": 0,
+        "desktop_padding_bottom": 0,
+        "custom_colors_background": "#FFFFFF",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2E2A39"
       }
     },
     "rich_text_GXjxCQ": {
@@ -521,78 +581,18 @@
         "custom_colors_solid_button_background": "#dd1d1d",
         "custom_colors_solid_button_text": "#ffffff"
       }
-    },
-    "horizontal_ticker_4wPUNQ": {
-      "type": "horizontal-ticker",
-      "blocks": {
-        "image_VQjMUp": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Design_sans_titre_6.png"
-          }
-        },
-        "image_gHD37H": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Design_sans_titre_7.png"
-          }
-        },
-        "image_9AyqEF": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Design_sans_titre_8.png"
-          }
-        },
-        "image_6y3Kbt": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Design_sans_titre_10.png"
-          }
-        }
-      },
-      "block_order": [
-        "image_VQjMUp",
-        "image_gHD37H",
-        "image_9AyqEF",
-        "image_6y3Kbt"
-      ],
-      "name": "Horizontal Ticker",
-      "settings": {
-        "visibility": "always-display",
-        "speed": 3,
-        "mobile_spacing": 60,
-        "desktop_spacing": 100,
-        "color_scheme": "background-1",
-        "mobile_text_size": 16,
-        "desktop_text_size": 18,
-        "italic_text": false,
-        "uppercase_text": false,
-        "bold_text": false,
-        "mobile_image_height": 70,
-        "desktop_image_height": 40,
-        "hidden_products": "",
-        "enable_specific_display": false,
-        "displayed_products": "",
-        "mobile_padding_top": 12,
-        "mobile_padding_bottom": 12,
-        "desktop_padding_top": 16,
-        "desktop_padding_bottom": 16,
-        "custom_colors_background": "#FFFFFF",
-        "custom_gradient_background": "",
-        "custom_colors_text": "#2E2A39"
-      }
     }
   },
   "order": [
     "image_banner_CQyhEb",
     "rich_text_eqC6AH",
+    "horizontal_ticker_4wPUNQ",
     "rich_text_GXjxCQ",
     "image_with_text_V4xy9p",
     "ss_testimonial_8_48ygtx",
     "image_slider_AqDgRp",
     "featured_product_ekJzk6",
     "0f1fc9e4-bc4c-4052-9747-62d1f8472caa",
-    "ee8d9ca6-4a41-401f-83a3-37e138a112b9",
-    "horizontal_ticker_4wPUNQ"
+    "ee8d9ca6-4a41-401f-83a3-37e138a112b9"
   ]
 }
