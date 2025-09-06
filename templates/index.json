@@ -762,84 +762,6 @@
         "custom_tabs_color_label": "#FFFFFF"
       }
     },
-    "collapsible_content_qwxUMV": {
-      "type": "collapsible-content",
-      "blocks": {
-        "collapsible_row_GFxMxe": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Carctéristiques",
-            "icon": "check_box",
-            "filled_icon": false,
-            "row_content": "<p><strong>Confort longue durée</strong> : semelle intérieure à mémoire de forme pour rester debout 12h sans douleur.</p><p><br/><strong>Légèreté extrême</strong> : jusqu’à 50 % plus légères que les chaussures de sécurité classiques.<br/></p><p><br/><strong>Protection maximale</strong> : coque renforcée en acier et semelle anti-perforation en Kevlar.<br/></p><p><br/><strong>Stabilité assurée</strong> : semelle extérieure antidérapante, même sur sols humides ou gras.<br/></p><p><br/><strong>Respirabilité optimale</strong> : matériaux aérés qui gardent vos pieds au sec toute la journée.</p>",
-            "page": ""
-          }
-        },
-        "collapsible_row_GgC9d3": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Satisfait ou remboursé",
-            "icon": "check_box",
-            "filled_icon": false,
-            "row_content": "<p>Si vous n'êtes pas satisfait au bout de 30 jours, nous vous remboursons intégralement.</p>",
-            "page": ""
-          }
-        },
-        "collapsible_row_fipqQ7": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Service client 7J/7",
-            "icon": "check_box",
-            "filled_icon": false,
-            "row_content": "<p>Notre équipe est à votre disposition pour répondre à vos questions 7/7.</p><p>Vous pouvez nous contacter dans l'onglet contact: du lundi au vendredi de 9h à 18h, et le samedi et dimanche de 9h à 17h.</p>",
-            "page": ""
-          }
-        },
-        "collapsible_row_XC4RET": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Collapsible row",
-            "icon": "check_box",
-            "filled_icon": false,
-            "row_content": "",
-            "page": ""
-          }
-        }
-      },
-      "block_order": [
-        "collapsible_row_GFxMxe",
-        "collapsible_row_GgC9d3",
-        "collapsible_row_fipqQ7",
-        "collapsible_row_XC4RET"
-      ],
-      "name": "t:sections.collapsible_content.presets.name",
-      "settings": {
-        "display_id": false,
-        "visibility": "always-display",
-        "caption": "",
-        "title": "",
-        "title_highlight_color": "#6d388b",
-        "heading_size": "h1",
-        "heading_alignment": "center",
-        "layout": "none",
-        "color_scheme": "background-1",
-        "container_color_scheme": "background-2",
-        "open_first_collapsible_row": false,
-        "image_ratio": "adapt",
-        "desktop_layout": "image_second",
-        "row_heading_size": "medium",
-        "collapse_icon": "carret",
-        "display_top_border": true,
-        "padding_top": 36,
-        "padding_bottom": 36,
-        "custom_colors_background": "#ffffff",
-        "custom_gradient_background": "",
-        "custom_colors_text": "#2e2a39",
-        "custom_contaner_colors_background": "#ffffff",
-        "custom_container_gradient_background": "",
-        "custom_contaner_colors_text": "#2e2a39"
-      }
-    },
     "image_slider_tfdDnL": {
       "type": "image-slider",
       "blocks": {
@@ -1181,7 +1103,6 @@
     "image_slider_AqDgRp",
     "featured_product_ekJzk6",
     "content_tabs_kVRxA4",
-    "collapsible_content_qwxUMV",
     "image_slider_tfdDnL",
     "image_banner_AMxWjN",
     "0f1fc9e4-bc4c-4052-9747-62d1f8472caa",
