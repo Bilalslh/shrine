@@ -565,7 +565,7 @@
         "custom_liquid_x6Qtm9": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<style>\n  .stock-urgency {\n    display: flex;\n    align-items: center;\n    font-family: Arial, sans-serif;\n    font-size: 15px;\n    color: #d93025; /* rouge urgent */\n    font-weight: bold;\n    margin: 10px 0;\n  }\n\n  .stock-urgency .dot {\n    height: 10px;\n    width: 10px;\n    background-color: #d93025;\n    border-radius: 50%;\n    margin-right: 8px;\n    animation: pulse 1s infinite;\n  }\n\n  @keyframes pulse {\n    0% { opacity: 1; }\n    50% { opacity: 0.3; }\n    100% { opacity: 1; }\n  }\n</style>\n\n<div class=\"stock-urgency\">\n  <div class=\"dot\"></div>\n En stock: 4 restants\n</div>"
+            "custom_liquid": "<style>\n  .stock-urgency {\n    display: flex;\n    align-items: center;\n    font-family: Arial, sans-serif;\n    font-size: 15px;\n    color: #d93025; /* rouge urgent */\n    font-weight: bold;\n    margin: 10px 0;\n  }\n\n  .stock-urgency .dot {\n    height: 10px;\n    width: 10px;\n    background-color: #d93025;\n    border-radius: 50%;\n    margin-right: 8px;\n    animation: pulse 1s infinite;\n  }\n\n  @keyframes pulse {\n    0% { opacity: 1; }\n    50% { opacity: 0.3; }\n    100% { opacity: 1; }\n  }\n</style>\n\n<div class=\"stock-urgency\">\n  <div class=\"dot\"></div>\n En stock: 6 restants\n</div>"
           }
         },
         "kaching_bundles_app_block_wLqyp6": {
