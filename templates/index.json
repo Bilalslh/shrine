@@ -537,6 +537,12 @@
     "featured_product_ekJzk6": {
       "type": "featured-product",
       "blocks": {
+        "custom_liquid_PNamLD": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<style>\n  .star-rating {\n    display: flex;\n    align-items: center;\n    font-family: Arial, sans-serif;\n  }\n\n  .star-rating .stars {\n    color: #FFA41C; /* jaune style Amazon */\n    font-size: 18px;\n    margin-right: 8px;\n  }\n\n  .star-rating .text {\n    color: #333;\n    font-size: 14px;\n  }\n</style>\n\n<div class=\"star-rating\">\n  <div class=\"stars\">\n    ★★★★★\n  </div>\n  <div class=\"text\">\n    4.8/5 (+3500 avis)\n  </div>\n</div>"
+          }
+        },
         "title_fg8Tii": {
           "type": "title",
           "settings": {
@@ -592,6 +598,7 @@
         }
       },
       "block_order": [
+        "custom_liquid_PNamLD",
         "title_fg8Tii",
         "custom_liquid_x6Qtm9",
         "kaching_bundles_app_block_wLqyp6",
