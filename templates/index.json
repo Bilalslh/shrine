@@ -569,7 +569,7 @@
             "icon_spacing": 10,
             "display_price": false,
             "enable_custom_color": false,
-            "custom_color": "#1c1c1c",
+            "custom_color": "#f0c416",
             "enable_secondary_btn": false,
             "secondary_btn_label": "Buy It Now",
             "secondary_btn_enable_custom_color": false,
@@ -582,7 +582,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/IMG_1451.jpg",
-            "width": 90,
+            "width": 100,
             "Full_mobile_width": false,
             "alignment": "center",
             "border_radius": 0,
@@ -616,6 +616,84 @@
         "full_media_width": false,
         "padding_top": 24,
         "padding_bottom": 36
+      }
+    },
+    "collapsible_content_qwxUMV": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_GFxMxe": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Carctéristiques",
+            "icon": "check_box",
+            "filled_icon": false,
+            "row_content": "<p><strong>Confort longue durée</strong> : semelle intérieure à mémoire de forme pour rester debout 12h sans douleur.</p><p><br/><strong>Légèreté extrême</strong> : jusqu’à 50 % plus légères que les chaussures de sécurité classiques.<br/></p><p><br/><strong>Protection maximale</strong> : coque renforcée en acier et semelle anti-perforation en Kevlar.<br/></p><p><br/><strong>Stabilité assurée</strong> : semelle extérieure antidérapante, même sur sols humides ou gras.<br/></p><p><br/><strong>Respirabilité optimale</strong> : matériaux aérés qui gardent vos pieds au sec toute la journée.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_GgC9d3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_box",
+            "filled_icon": false,
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "collapsible_row_fipqQ7": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_box",
+            "filled_icon": false,
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "collapsible_row_KNcekn": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_box",
+            "filled_icon": false,
+            "row_content": "",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_GFxMxe",
+        "collapsible_row_GgC9d3",
+        "collapsible_row_fipqQ7",
+        "collapsible_row_KNcekn"
+      ],
+      "name": "t:sections.collapsible_content.presets.name",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "caption": "",
+        "title": "",
+        "title_highlight_color": "#6D388B",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "background-1",
+        "container_color_scheme": "background-2",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "row_heading_size": "medium",
+        "collapse_icon": "carret",
+        "display_top_border": true,
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "custom_colors_background": "#FFFFFF",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2E2A39",
+        "custom_contaner_colors_background": "#FFFFFF",
+        "custom_container_gradient_background": "",
+        "custom_contaner_colors_text": "#2E2A39"
       }
     },
     "image_slider_tfdDnL": {
@@ -858,6 +936,7 @@
     "ss_testimonial_8_48ygtx",
     "image_slider_AqDgRp",
     "featured_product_ekJzk6",
+    "collapsible_content_qwxUMV",
     "image_slider_tfdDnL",
     "image_banner_AMxWjN",
     "0f1fc9e4-bc4c-4052-9747-62d1f8472caa",
