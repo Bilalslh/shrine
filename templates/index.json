@@ -634,30 +634,20 @@
         "collapsible_row_GgC9d3": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "Satisfait ou remboursé",
             "icon": "check_box",
             "filled_icon": false,
-            "row_content": "",
+            "row_content": "<p>Si vous n'êtes pas satisfait au bout de 30 jours, nous vous remboursons intégralement.</p>",
             "page": ""
           }
         },
         "collapsible_row_fipqQ7": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "Service client 7J/7",
             "icon": "check_box",
             "filled_icon": false,
-            "row_content": "",
-            "page": ""
-          }
-        },
-        "collapsible_row_KNcekn": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Collapsible row",
-            "icon": "check_box",
-            "filled_icon": false,
-            "row_content": "",
+            "row_content": "<p>Notre équipe est à votre disposition pour répondre à vos questions 7/7.</p><p>Vous pouvez nous contacter dans l'onglet contact: du lundi au vendredi de 9h à 18h, et le samedi et dimanche de 9h à 17h.</p>",
             "page": ""
           }
         }
@@ -665,8 +655,7 @@
       "block_order": [
         "collapsible_row_GFxMxe",
         "collapsible_row_GgC9d3",
-        "collapsible_row_fipqQ7",
-        "collapsible_row_KNcekn"
+        "collapsible_row_fipqQ7"
       ],
       "name": "t:sections.collapsible_content.presets.name",
       "settings": {
