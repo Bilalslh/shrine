@@ -901,25 +901,6 @@
         "custom_colors_outline_button": "#dd1d1d"
       }
     },
-    "ee8d9ca6-4a41-401f-83a3-37e138a112b9": {
-      "type": "contact-form",
-      "settings": {
-        "display_id": false,
-        "visibility": "always-display",
-        "title": "Contact form",
-        "title_highlight_color": "#6d388b",
-        "heading_size": "h1",
-        "button_full_width": true,
-        "color_scheme": "background-1",
-        "padding_top": 36,
-        "padding_bottom": 36,
-        "custom_colors_background": "#ffffff",
-        "custom_gradient_background": "",
-        "custom_colors_text": "#2e2a39",
-        "custom_colors_solid_button_background": "#dd1d1d",
-        "custom_colors_solid_button_text": "#ffffff"
-      }
-    },
     "collapsible_content_VB7Ckf": {
       "type": "collapsible-content",
       "blocks": {
@@ -1019,6 +1000,25 @@
         "custom_container_gradient_background": "",
         "custom_contaner_colors_text": "#2e2a39"
       }
+    },
+    "ee8d9ca6-4a41-401f-83a3-37e138a112b9": {
+      "type": "contact-form",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "title": "Nous contacter",
+        "title_highlight_color": "#6d388b",
+        "heading_size": "h1",
+        "button_full_width": true,
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "custom_colors_background": "#ffffff",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2e2a39",
+        "custom_colors_solid_button_background": "#dd1d1d",
+        "custom_colors_solid_button_text": "#ffffff"
+      }
     }
   },
   "order": [
@@ -1036,7 +1036,7 @@
     "image_slider_tfdDnL",
     "image_banner_AMxWjN",
     "0f1fc9e4-bc4c-4052-9747-62d1f8472caa",
-    "ee8d9ca6-4a41-401f-83a3-37e138a112b9",
-    "collapsible_content_VB7Ckf"
+    "collapsible_content_VB7Ckf",
+    "ee8d9ca6-4a41-401f-83a3-37e138a112b9"
   ]
 }
