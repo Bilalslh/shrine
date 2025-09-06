@@ -566,6 +566,12 @@
             "margin_bottom": 15
           }
         },
+        "custom_liquid_x6Qtm9": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<style>\n  .stock-urgency {\n    display: flex;\n    align-items: center;\n    font-family: Arial, sans-serif;\n    font-size: 15px;\n    color: #d93025; /* rouge urgent */\n    font-weight: bold;\n    margin: 10px 0;\n  }\n\n  .stock-urgency .dot {\n    height: 10px;\n    width: 10px;\n    background-color: #d93025;\n    border-radius: 50%;\n    margin-right: 8px;\n    animation: pulse 1s infinite;\n  }\n\n  @keyframes pulse {\n    0% { opacity: 1; }\n    50% { opacity: 0.3; }\n    100% { opacity: 1; }\n  }\n</style>\n\n<div class=\"stock-urgency\">\n  <div class=\"dot\"></div>\n En stock: 4 restants\n</div>"
+          }
+        },
         "kaching_bundles_app_block_wLqyp6": {
           "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
           "settings": {
@@ -594,6 +600,7 @@
       },
       "block_order": [
         "title_fg8Tii",
+        "custom_liquid_x6Qtm9",
         "kaching_bundles_app_block_wLqyp6",
         "buy_buttons_mmfJXb"
       ],
