@@ -26,7 +26,7 @@
         "link_list_6aBLeA": {
           "type": "link_list",
           "settings": {
-            "heading": "Quick links",
+            "heading": "",
             "menu": "footer",
             "width_desktop": 3,
             "width_mobile": "2"
