@@ -422,22 +422,22 @@
     "image_slider_AqDgRp": {
       "type": "image-slider",
       "blocks": {
-        "image_slide_kgTmJ9": {
-          "type": "image_slide",
-          "settings": {
-            "image": "shopify://shop_images/67d8ebaf-088a-443b-a89d-90942b491ce6.png",
-            "link": "",
-            "description": "<h4><strong>Marc</strong></h4><p><em>Je fais souvent des journées de 10 à 12 heures sur les chantiers. Avec ces chaussures, je rentre enfin chez moi sans avoir les pieds en feu. </em></p><p><em>Franchement, je revis, merci.</em><br/></p>",
-            "desc_alignment": "center",
-            "desc_color_scheme": "background-2"
-          }
-        },
         "image_slide_9MdN6F": {
           "type": "image_slide",
           "settings": {
             "image": "shopify://shop_images/1750679904__0__mW28lNTd__IMG-20250623-WA0028__original.avif",
             "link": "",
             "description": "<h4><strong>Thomas</strong></h4><p></p><p><em>Elles sont incroyablement légères. Je sens vraiment la différence par rapport à mes anciennes chaussures de sécurité qui pesaient une tonne. C'est top, on a l’impression de porter des baskets.</em><br/><br/></p>",
+            "desc_alignment": "center",
+            "desc_color_scheme": "background-2"
+          }
+        },
+        "image_slide_kgTmJ9": {
+          "type": "image_slide",
+          "settings": {
+            "image": "shopify://shop_images/67d8ebaf-088a-443b-a89d-90942b491ce6.png",
+            "link": "",
+            "description": "<h4><strong>Marc</strong></h4><p><em>Je fais souvent des journées de 10 à 12 heures sur les chantiers. Avec ces chaussures, je rentre enfin chez moi sans avoir les pieds en feu. </em></p><p><em>Franchement, je revis, merci.</em><br/></p>",
             "desc_alignment": "center",
             "desc_color_scheme": "background-2"
           }
@@ -484,8 +484,8 @@
         }
       },
       "block_order": [
-        "image_slide_kgTmJ9",
         "image_slide_9MdN6F",
+        "image_slide_kgTmJ9",
         "image_slide_HemQpn",
         "image_slide_rJ9YA3",
         "image_slide_VCtMWf",
