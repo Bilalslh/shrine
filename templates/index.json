@@ -589,7 +589,7 @@
             "icon_scale": 120,
             "icon_spacing": 10,
             "display_price": false,
-            "enable_custom_color": false,
+            "enable_custom_color": true,
             "custom_color": "#f0c416",
             "enable_secondary_btn": false,
             "secondary_btn_label": "Buy It Now",
@@ -673,12 +673,23 @@
             "row_content": "<p>Notre équipe est à votre disposition pour répondre à vos questions 7/7.</p><p>Vous pouvez nous contacter dans l'onglet contact: du lundi au vendredi de 9h à 18h, et le samedi et dimanche de 9h à 17h.</p>",
             "page": ""
           }
+        },
+        "collapsible_row_XC4RET": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_box",
+            "filled_icon": false,
+            "row_content": "",
+            "page": ""
+          }
         }
       },
       "block_order": [
         "collapsible_row_GFxMxe",
         "collapsible_row_GgC9d3",
-        "collapsible_row_fipqQ7"
+        "collapsible_row_fipqQ7",
+        "collapsible_row_XC4RET"
       ],
       "name": "t:sections.collapsible_content.presets.name",
       "settings": {
