@@ -311,7 +311,7 @@
         "stars_size": 28,
         "stars_size_mobile": 24,
         "stars_align": "center",
-        "text": "<p>basé sur 3256 avis </p>",
+        "text": "<p>basé sur 3556 avis </p>",
         "text_custom": false,
         "text_font": "josefin_sans_n4",
         "text_size": 20,
@@ -540,7 +540,7 @@
         "custom_liquid_PNamLD": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<style>\n  .star-rating {\n    display: flex;\n    align-items: center;\n    font-family: Arial, sans-serif;\n  }\n\n  .star-rating .stars {\n    color: #FFA41C; /* jaune style Amazon */\n    font-size: 18px;\n    margin-right: 8px;\n  }\n\n  .star-rating .text {\n    color: #333;\n    font-size: 14px;\n  }\n</style>\n\n<div class=\"star-rating\">\n  <div class=\"stars\">\n    ★★★★★\n  </div>\n  <div class=\"text\">\n    4.8/5 (+3500 avis)\n  </div>\n</div>"
+            "custom_liquid": "<style>\n  .star-rating {\n    display: flex;\n    align-items: center;\n    font-family: Arial, sans-serif;\n  }\n\n  .star-rating .stars {\n    color: #FFA41C; /* jaune style Amazon */\n    font-size: 18px;\n    margin-right: 8px;\n  }\n\n  .star-rating .text {\n    color: #333;\n    font-size: 14px;\n  }\n</style>\n\n<div class=\"star-rating\">\n  <div class=\"stars\">\n    ★★★★★\n  </div>\n  <div class=\"text\">\n    4.9/5 (+3500 avis)\n  </div>\n</div>"
           }
         },
         "title_fg8Tii": {
