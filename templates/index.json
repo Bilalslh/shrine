@@ -919,6 +919,106 @@
         "custom_colors_solid_button_background": "#dd1d1d",
         "custom_colors_solid_button_text": "#ffffff"
       }
+    },
+    "collapsible_content_VB7Ckf": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_pzUcjk": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Combien de temps puis-je les porter sans douleur ?",
+            "icon": "check_box",
+            "filled_icon": false,
+            "row_content": "<p>Grâce à la semelle intérieure à mémoire de forme et à leur légèreté, vous pouvez rester debout 12 heures d’affilée sans fatigue ni douleurs aux pieds ou au dos.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_c7WqyD": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Sont-elles légères malgré la coque en acier ?",
+            "icon": "check_box",
+            "filled_icon": false,
+            "row_content": "<p>Oui. Elles sont jusqu’à 50 % plus légères que des chaussures de sécurité classiques, tout en gardant une protection maximale.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_entcJU": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Les chaussures respectent-elles les normes de sécurité ?",
+            "icon": "check_box",
+            "filled_icon": false,
+            "row_content": "<p>Oui, elles sont certifiées S3 selon la norme européenne EN ISO 20345:2011. Coque renforcée, semelle anti-perforation et semelle extérieure antidérapante : vos pieds sont protégés en toutes circonstances.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_TbyRWK": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Puis-je les utiliser en dehors du travail ?",
+            "icon": "check_box",
+            "filled_icon": false,
+            "row_content": "<p>Tout à fait. Avec leur look inspiré des sneakers, elles passent aussi bien sur un chantier qu’en ville, sans ressembler à des chaussures de sécurité classiques.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_3t3LWr": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Le système de fermeture est-il fiable ?",
+            "icon": "check_box",
+            "filled_icon": false,
+            "row_content": "<p>Oui. Le système sans lacets est conçu pour durer : rapide, solide et pratique, il tient parfaitement même après des centaines d’utilisations.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_MWUmQJ": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Conviennent-elles à différents métiers ?",
+            "icon": "check_box",
+            "filled_icon": false,
+            "row_content": "<p>Oui, elles sont adaptées au BTP, à la logistique, à la manutention, à l’intérim, mais aussi à toute activité qui exige des chaussures de sécurité certifiées S3.</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_pzUcjk",
+        "collapsible_row_c7WqyD",
+        "collapsible_row_entcJU",
+        "collapsible_row_TbyRWK",
+        "collapsible_row_3t3LWr",
+        "collapsible_row_MWUmQJ"
+      ],
+      "name": "t:sections.collapsible_content.presets.name",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "caption": "",
+        "title": "FAQ",
+        "title_highlight_color": "#6D388B",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "background-1",
+        "container_color_scheme": "background-2",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "row_heading_size": "medium",
+        "collapse_icon": "carret",
+        "display_top_border": true,
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "custom_colors_background": "#FFFFFF",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2E2A39",
+        "custom_contaner_colors_background": "#FFFFFF",
+        "custom_container_gradient_background": "",
+        "custom_contaner_colors_text": "#2E2A39"
+      }
     }
   },
   "order": [
@@ -936,6 +1036,7 @@
     "image_slider_tfdDnL",
     "image_banner_AMxWjN",
     "0f1fc9e4-bc4c-4052-9747-62d1f8472caa",
-    "ee8d9ca6-4a41-401f-83a3-37e138a112b9"
+    "ee8d9ca6-4a41-401f-83a3-37e138a112b9",
+    "collapsible_content_VB7Ckf"
   ]
 }
