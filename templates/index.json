@@ -718,7 +718,7 @@
         "dots_color_scheme": "inverse",
         "desktop_full_page": false,
         "desktop_border_radius": 0,
-        "slides_desktop": 1,
+        "slides_desktop": 2,
         "per_move_desktop": 1,
         "desktop_spacing": 28,
         "desktop_side_padding": 0,
