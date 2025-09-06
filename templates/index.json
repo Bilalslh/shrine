@@ -735,7 +735,7 @@
       "settings": {
         "display_id": false,
         "visibility": "always-display",
-        "title": "Content tabs",
+        "title": "",
         "title_highlight_color": "#6D388B",
         "heading_size": "h1",
         "text": "",
